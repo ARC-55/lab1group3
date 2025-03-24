@@ -13,6 +13,7 @@ Muhammad Aiman Firdaus Bin Shahrul Nizam (DI220009)
 
 Cik Feresa
 
+
 1.0	Abstract
 
 Rendering secureness online is of utmost significance for preventing undesired events. Most websites are readily capable of being attacked and the application of OWASP (Open Web Application Security Project) can serve as a tool to identify widespread security issues in web applications. One of the major issues in the OWASP Top 10 list is the Broken Access Controls (A01:2021) which happens when a system does not have any proper restriction on a user's access. This enables hackers to do something like taking people's private information or doing things that they are not supposed to do.
