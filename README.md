@@ -2,9 +2,13 @@
 WEB SECURITY AND BROKEN ACCESS CONTROL: AN ANALYSIS
 
 Nurfitri Fatiha Balqis Bin Zairudin (CI230096)
+
 Nurdhia Dalili Iezazi Binti Mohamad Fuad Halmi (CI230097)
+
 Farah Nur Ain Binti Arzhar (CI230080)
+
 Muhammad Aiman Bin Sufian (CI230136)
+
 Muhammad Aiman Firdaus Bin Shahrul Nizam (DI220009)
 
 Cik Feresa
@@ -37,8 +41,13 @@ One of the vectors of vulnerability in web security that is still very risky is 
 6.0 References
 
 ●	Forced Browsing. (2023, January 31). Invicti. https://www.invicti.com/learn/forced-browsing/
+
 ●	OWASP. (2021). A01 Broken Access Control - OWASP Top 10:2021. Owasp.org; OWASP. https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+
 ●	OWASP. (2013). Insecure Direct Object Reference Prevention · OWASP Cheat Sheet Series. Owasp.org. https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html
+
 ●	Suryawanshi, T. (2023, April 14). Cross-Origin Resource Sharing (CORS) Vulnerability: Example and Prevention. Medium. https://medium.com/@tushar_rs_/cross-origin-resource-sharing-cors-vulnerability-example-and-prevention-588d299ff185
+
 ●	What Is Privilege Escalation? - Definition, Types, Examples | Proofpoint US. (2023, July 10). Proofpoint. https://www.proofpoint.com/us/threat-reference/privilege-escalation
+
 ●	What is Metadata? – Forensicon. (n.d.). https://www.forensicon.com/resources/articles/what-is-metadata/
